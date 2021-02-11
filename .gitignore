@@ -1,0 +1,7 @@
+# input
+input/exoTrain.csv
+input/exoTest.csv
+
+# python
+**/.ipynb_checkpoints
+
